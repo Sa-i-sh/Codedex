@@ -1,0 +1,1 @@
+This repo is for my practice of git and github commands. It includes one line python codes which r of little to no use.
